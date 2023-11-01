@@ -1,5 +1,5 @@
 import {useEffect, useReducer} from "react";
-import {TodoReducer} from "../08-useReducer/todoReducer.js";
+import {TodoReducer} from "./todoReducer";
 
 export const UseTodo = () => {
     //#region ParametersReducer
